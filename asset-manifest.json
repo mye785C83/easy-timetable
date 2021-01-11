@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/easy-timetable/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/easy-timetable/static/js/main.978722ff.chunk.js",
+    "main.js.map": "/easy-timetable/static/js/main.978722ff.chunk.js.map",
+    "runtime-main.js": "/easy-timetable/static/js/runtime-main.bfb8887a.js",
+    "runtime-main.js.map": "/easy-timetable/static/js/runtime-main.bfb8887a.js.map",
+    "static/js/2.7ce8589e.chunk.js": "/easy-timetable/static/js/2.7ce8589e.chunk.js",
+    "static/js/2.7ce8589e.chunk.js.map": "/easy-timetable/static/js/2.7ce8589e.chunk.js.map",
+    "static/js/3.7a7466c4.chunk.js": "/easy-timetable/static/js/3.7a7466c4.chunk.js",
+    "static/js/3.7a7466c4.chunk.js.map": "/easy-timetable/static/js/3.7a7466c4.chunk.js.map",
+    "index.html": "/easy-timetable/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/easy-timetable/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7ce8589e.chunk.js.LICENSE.txt": "/easy-timetable/static/js/2.7ce8589e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/easy-timetable/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfb8887a.js",
+    "static/js/2.7ce8589e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.978722ff.chunk.js"
+  ]
+}
