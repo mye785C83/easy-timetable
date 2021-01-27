@@ -61,32 +61,26 @@ import { useTable } from 'react-table';
        {
          Header: '',
          accessor: 'row', // accessor is the "key" in the data
-         width: 550,
        },
        {
          Header: 'Mon',
          accessor: 'mon',
-         width: 150,
        },
        {
         Header: 'Tue',
         accessor: 'tue',
-        width: 150,
       },
       {
         Header: 'Wed',
         accessor: 'wed',
-        width: 150,
       },
       {
         Header: 'Thu',
         accessor: 'thu',
-        width: 150,
       },
       {
         Header: 'Fri',
         accessor: 'fri',
-        width: 150,
       },
      ],
      []
